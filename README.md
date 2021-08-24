@@ -7,7 +7,7 @@
 </div>
 <div align="center">
   </div>
-<div align="center"><h3>I'm a fresh Fullstack Developer</h3></div>
+<div align="center"><h3>I'm a Fullstack Developer</h3></div>
 
 <div align="center"><h1>Coding languages and tools I know:</h1></div>
 <p align="center">
