@@ -1,15 +1,11 @@
 ### Hiya, welcome to my Github profile! 👋
 
-Here are some ideas to get you started:
 
-- 🌱 I’m looking to grow as much as I can!
-- 📫 I'm always looking forward to strive for better understanding of the coding world!
-- If you want to reach me, just dive onto my e-mail: lighu.miranda@gmail.com
-- ⚡ Fun fact: My movie knowledge is waaaaay less than one would normally think haha.
+- If you want to reach me, just dive onto my e-mail: franslopezcortes@gmail.com
+- I am a creative person, with a great capacity for team work and with entrepreneurial spirit. I am very bullish on diving into my first software development job, eager to contribute a lot and learn every day. 😄😄.
 
 </div>
 <div align="center">
-<img src="https://thumbs.gfycat.com/UnawareScentedHoopoe-size_restricted.gif" alt="Miles" />
   </div>
 <div align="center"><h3>I'm a fresh Fullstack Developer</h3></div>
 
