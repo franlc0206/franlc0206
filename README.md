@@ -1,14 +1,6 @@
 ### Hiya, welcome to my Github profile! 👋
 
 
-- If you want to reach me, just dive onto my e-mail: franslopezcortes@gmail.com
-- I am a creative person, with a great capacity for team work and with entrepreneurial spirit. I am very bullish on diving into my first software development job, eager to contribute a lot and learn every day. 😄😄.
-
-</div>
-<div align="center">
-  </div>
-<div align="center"><h3>I'm a Fullstack Developer</h3></div>
-
 <div align="center"><h1>Coding languages and tools I know:</h1></div>
 <p align="center">
   <img width="5%" align="center" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
